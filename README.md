@@ -1,2 +1,2 @@
 # Python-program-to-calculate-area-of-circle-rectangle-or-triangle
-A relatively simple program written in python that calculates the area of a circle, rectangle or triangle based on the dimensions you give it.
+A relatively basic python project which consists of a program where you enter the dimensions of a rectangle, circle or triangle and the program calculates the area for you.
